@@ -1,6 +1,4 @@
-# README
-
-## Hi there! 👋
+# Hi there! 👋
 
 I'm Francesco Marrocco, a passionate student of Mathematics Applied to AI at @SapienzaUniversity. My journey into the world of artificial intelligence has been fueled by my love for solving complex problems and my drive to push boundaries. I thrive in challenging environments where I can experiment.
 
