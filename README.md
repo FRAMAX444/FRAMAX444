@@ -1,5 +1,5 @@
 ## 💫 About Me:
-🎓 I’m currently pursuing a degree in **Mathematics Applied to AI.**<br>💻 I’m looking to collaborate on **work on ambitious projects**<br>📫 Reach me at **frmarrocco03@gmail.com**
+🎓 I’m currently pursuing a degree in **Mathematics Applied to AI.**<br>💻 I’m looking to collaborate to **work on ambitious projects**<br>📫 Reach me at **frmarrocco03@gmail.com**
 
 
 ## 🌐 Socials:
