@@ -2,7 +2,7 @@
 🎓 I’m currently pursuing a degree in **Mathematics Applied to AI.**<br>💻 I’m looking to collaborate on **work on ambitious projects**<br>📫 Reach me at **frmarrocco03@gmail.com**
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/francesco.marrocco_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/francesco-marrocco-95257b212/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/fra_marrocco?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:frmarrocco03@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,7 +12,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=FRAMAX444&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAMAX444&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=FRAMAX444&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
