@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FRAMAX444&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FRAMAX444&hide=B,B%2B&limit=7&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=FRAMAX444&hide=B&limit=7&theme=default&combine_all_yearly_contributions=true)
